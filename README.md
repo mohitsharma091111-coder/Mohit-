@@ -1,4 +1,4 @@
-# Hi, I'm Your Name 👋
+# Hi, I'm Mohit sharma👋
 
 ## About Me
 - 🌱 I'm learning software development.
@@ -6,8 +6,11 @@
 - 🎯 My goal is to grow as a developer and contribute to real-world projects.
 
 ## Skills
-- Add your programming languages here
-- Add your tools and technologies here
+- Project and Resource Support: Task and deadline tracking, status reporting, management reporting,
+documentation, cross-team coordination, stakeholder communication
+Excel and Data: Microsoft Excel, data analysis, reconciliations, transaction analysis, financial reporting,
+balance sheets, accounts receivable
+Tools: Microsoft Excel, Xero, CRM systems, AI-enabled productivity tools
 
 ## Projects
 - More projects coming soon!
